@@ -10,8 +10,22 @@ body{
     padding: 10%;
 }
 
+/* Estilos para el encabezado */
 .contenedor{
+    display: flex;
+    flex-direction: column;
     background-color: white;
     border-radius: 100px;
     padding: 5%;
+}
+header{
+    text-align: center;
+    margin: 10px;
+}
+header p{
+ margin: 10px;
+}
+header img{
+  
+    width: 20vw;
 }
