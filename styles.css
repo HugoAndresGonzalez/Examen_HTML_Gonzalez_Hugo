@@ -31,7 +31,7 @@ header img{
     width: 20vw;
 }
 
-/* Usuario seccion de imagen */
+/* Usuario seccion de imagen - datos -informacion*/
 .datos-andres{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -73,9 +73,44 @@ hr{
 }
 
 
+/* Usuario seccion de analisis*/
 
 
+.caracteristicas{
+    text-align: center;
 
+}
+.caracteristicas p{
+    padding: 10px;
+}
+.caracteristicas ul{
+    list-style: none;
+    padding: 10px;
+}
+.caracteristicas ul li{
+    margin: 10px;
+}
 
+.estrategis-alcance{
+    text-align: center;
+}
 
+.loguito{
+    width: 4em;
+    height: 0.7em;
+}
+.capacidades ul{
+    list-style: none;
+}
+.capacidades ul li{
+    margin: 10px;
+    align-items: center;
+}
 
+.check-2{
+    width: 8.5%;
+}
+
+.check-1{
+    width: 2.5%;
+}
