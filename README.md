@@ -2,7 +2,7 @@
 - El presente documento es un Aplicativo Web que   muestra una serie de casos de estudio a nivel de historias de usuarios, la cual hará un análisis de las posibles personas naturales o jurídicas que llegan a solicitar algún requerimiento de la dian.
 
 ## Seccion encabezado
--Evidencia el logo d ela DIAN y una pequeña descripcion del contenido del documento.
+- Evidencia el logo d ela DIAN y una pequeña descripcion del contenido del documento.
 
 ## Seccion de usuarios
 
@@ -16,6 +16,9 @@
 
 - Presenta un compilado en el que se analisa la informacion recolectada de cada usuario, y brinda informacion clave  para 
 la identificacion de caracteristicas, el manejo de estrategias y definicion del alcance.
+
+## Repositorio
+- https://github.com/HugoAndresGonzalez/Examen_HTML_Gonzalez_Hugo
 
 ## Autor
 
