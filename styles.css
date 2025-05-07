@@ -29,3 +29,41 @@ header img{
   
     width: 20vw;
 }
+
+/* Usuario seccion de imagen */
+.datos-andres{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    padding-left: 0;
+}
+.imagen{
+    border: 1px solid black;
+    text-align: center;
+    justify-content: start;
+}
+.foto{
+    width: 30vw;
+}
+.frase{
+    color: #12add7;
+}
+hr{
+    opacity: 0.5;
+}
+.obs-opr{
+    border: 1px solid black;
+    grid-column: span 2;
+    padding-left: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+
