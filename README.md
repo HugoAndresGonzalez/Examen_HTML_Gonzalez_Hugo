@@ -17,6 +17,10 @@
 - Presenta un compilado en el que se analisa la informacion recolectada de cada usuario, y brinda informacion clave  para 
 la identificacion de caracteristicas, el manejo de estrategias y definicion del alcance.
 
+## Sitio web responsivo
+
+- iPhone 14 pro-Max a 1080px
+
 ## Repositorio
 - https://github.com/HugoAndresGonzalez/Examen_HTML_Gonzalez_Hugo
 
@@ -25,4 +29,4 @@ la identificacion de caracteristicas, el manejo de estrategias y definicion del 
 - Hugo Andres Gonzalez Delgado
 
 ## Contacto
--ingmechgonzalez@gmail.com
+- ingmechgonzalez@gmail.com

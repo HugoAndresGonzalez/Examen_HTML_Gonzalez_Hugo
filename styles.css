@@ -35,16 +35,16 @@ header img{
 .datos-andres{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
+    grid-template-rows: 1fr;
     padding-left: 0;
 }
 .imagen{
+    grid-column: span 1;
     text-align: center;
     justify-content: start;
-    align-content: center;
 }
 .foto{
-    width: 20vw;
+    width: 1fr;
     height: 30vw;
 }
 .frase{
@@ -55,20 +55,20 @@ hr{
 }
 .obs-opr{
     grid-column: span 2;
-    padding-left: 3%;
+    padding-left: 0;
 }
 
 .datos-camila{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
+    grid-template-rows: 1fr;
     padding-left: 0;
 }
 
 .datos-carolina{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
+    grid-template-rows: 1fr;
     padding-left: 0;
 }
 
@@ -138,4 +138,8 @@ hr{
     .datos{
         grid-row: 2;
     }
+
+      .responsive-table td {
+        display: block;
+      }
 }
